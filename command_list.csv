@@ -1,0 +1,50 @@
+    1  helphelp
+    2  man ls
+    3  help cd
+    4  clear
+    5  cd
+    6  cd/C:\Users\iegor\Desktop\Git HW
+    7  touch text_ignore.txt
+    8  echo > text_ignore.txt
+    9  pwd
+   10  cd /C/Users/iegor/Desktop/Git HW
+   11  clear
+   12  cd /c/Users/iegor/Desktop/Git HW
+   13  cd "/c/Users/iegor/Desktop/Git HW"
+   14  touch text_ignore.txt
+   15  git clone https://github.com/boikov9/HW_10.git
+   16  echo "text_ignore.txt" >> .gitignore
+   17  git status
+   18  [200~iegor@EG MINGW64 ~
+   19  $ cd "/c/Users/iegor/Desktop/Git HW"
+   20  cd "/c/Users/iegor/Desktop/Git HW/HW_10"
+   21  echo "text_ignore.txt" >> .gitignore
+   22  git status
+   23  git add
+   24  git add.
+   25  "git add."
+   26  git add .
+   27  touch main_text.txt
+   28  git add .
+   29  git branch develop
+   30  git checkout develop 
+   31  touch develop_test.txt
+   32  git add .
+   33  git commit
+   34  git config --global user.name "Iegor"
+   35  git config --global user.email "iegorboikov@gmail.com"
+   36  git commit
+   37  [200~echo "text_ignore.txt" >> .gitignore
+   38  echo "Just a small change" >> .develop_text.txt
+   39  git status
+   40  git add .develop_text.txt
+   41  git commit -m "Добавлен .develop_text.txt"
+   42  git add
+   43  git add .
+   44  git commit
+   45  checkout main
+   46  git checkout main
+   47  git merge develop 
+   48  git log
+   49  command_list.csv
+   50  history > command_list.csv
